@@ -8,9 +8,9 @@ namespace BitPing
     static class Program
     {
 		/*
-		You Can Customize Like, startup support, etc..
+		You Can Customize Like, startup support, etc ...
 		*/
-        internal static string Bitcoin = "Your' Bitcoin Here!";
+        internal static string Bitcoin = "You'r Bitcoin Here!";
         [STAThread]
         static void Main(){
             string Temp = null;
