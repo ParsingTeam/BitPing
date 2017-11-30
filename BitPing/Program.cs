@@ -28,8 +28,7 @@ namespace BitPing
                     }
                     Thread.Sleep(100);
                 }
-                catch (Exception){
-				}
+                catch (Exception) {}
             }while (true);
         }
         static bool GetCheck(string Temp){
